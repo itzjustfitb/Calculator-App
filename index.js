@@ -14,8 +14,8 @@ let calculator = document.getElementById("calculator");
 
 function textEffects() {
   setTimeout(() => {
-    first_text.style.top = "40%";
-    second_text.style.bottom = "40%";
+    first_text.style.top = "50%";
+    second_text.style.bottom = "50%";
     setTimeout(() => {
       first_text.style.left = "-1000px";
       second_text.style.right = "-1000px";
